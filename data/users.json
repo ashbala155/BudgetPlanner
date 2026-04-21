@@ -1,0 +1,8 @@
+{
+  "codex_test_user": {
+    "username": "codex_test_user",
+    "password_hash": "ca766eab8efcbf77e6aa32ca9b373885e34643a71079094447f9c89c7e1ef0e7",
+    "salt": "729261e5ba892469708c75faa3acdd3f",
+    "created_at": "2026-04-21T20:29:11.972290+00:00"
+  }
+}
