@@ -1,0 +1,18 @@
+[
+  {
+    "saved_at": "2026-04-21T20:29:12.097374+00:00",
+    "priority": "Balanced plan",
+    "fixed_costs": 2200,
+    "variable_costs": 1100,
+    "debt_payments": 300,
+    "savings_goal": 6000,
+    "income": 5000,
+    "essentials": 2695.0,
+    "lifestyle": 605.0,
+    "savings": 1000.0,
+    "debt": 500.0,
+    "leftover": 200.0,
+    "emergency_months": 2.2,
+    "savings_rate": 20.0
+  }
+]
